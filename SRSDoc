@@ -1,0 +1,36 @@
+Software Requirement Specification (SRS):
+
+An SRS is a formal document that serves as the blueprint for the software project. It ensures all developers are aligned and reduces project risk.
+Standard SRS Structure
+Introduction
+Purpose & Scope
+Stakeholders
+Functional Requirements
+Non-Functional Requirements
+Assumptions & Constraints
+Use Case Diagrams
+User Stories & Acceptance Criteria
+User Stories
+A User Story describes a requirement from the user's perspective.
+Template: As a <Role>, I want to <Action>, So that <Benefit>.
+
+Example 1: As a Student, I want to register for an event, so that I can participate in technical competitions.
+Example 2: As an Admin, I want to create new events, so that students can register online.
+Acceptance Criteria
+These define when a feature is considered complete. For a Login Feature, criteria might include:
+
+Valid Email and Password entry.
+Successful redirection to the Dashboard.
+Error message for invalid credentials.
+Secure session creation.
+Hands-on Activity (30 Minutes)
+Students will prepare a preliminary SRS for the College Event Management System containing:
+
+Project Title, Introduction, and Scope.
+Stakeholder Identification.
+Functional Requirements (Min. 10).
+Non-Functional Requirements (Min. 5).
+User Stories & Use Cases (Min. 5 each).
+Assumptions and Constraints.
+Assignment
+Prepare a complete SRS for a Library Management System using the structure discussed in class today.
